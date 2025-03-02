@@ -51,7 +51,7 @@
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.24.0",
-    "gm": "^1.23.0",
+    "gm": "^1.25.1",
     "image-type": "^3.0.0",
     "path-template": "0.0.0"
   },
